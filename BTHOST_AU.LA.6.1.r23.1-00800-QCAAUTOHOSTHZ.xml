@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<manifest>
-  <remote fetch="https://git.codelinaro.org" name="clo" review="codelinaro.org"/>
-  <default remote="clo" revision="refs/heads/master"/>
-  <project dest-branch="refs/heads/bt-sysintf.lnx.13.1.c23.1" name="clo/la/platform/vendor/qcom-opensource/bluetooth-commonsys-intf" path="vendor/qcom/opensource/commonsys-intf/bluetooth" revision="56a242248b139271f130449f477deab3ac0fd365" upstream="refs/heads/bt-sysintf.lnx.13.1.c23.1"/>
-  <project dest-branch="refs/heads/bt-sys.lnx.13.1.c23.1" name="clo/la/platform/vendor/qcom-opensource/packages/modules/Bluetooth" path="vendor/qcom/opensource/commonsys/packages/modules/Bluetooth" revision="aabb9b8bdd3d8ed9d4c50baa618d9ae5a2d9f4c5" upstream="refs/heads/bt-sys.lnx.13.1.c23.1"/>
-</manifest>

@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<manifest>
-  <remote fetch="https://git.codelinaro.org" name="clo" review="codelinaro.org"/>
-  <default remote="clo" revision="refs/heads/master"/>
-  <project dest-branch="refs/heads/automotive-bt-aosp.lnx.3.0.c22.2" name="clo/la/platform/packages/apps/Bluetooth" path="packages/apps/Bluetooth" revision="2a09e9253ba11b0fde0601fc892fa6ff2177a1ca" upstream="refs/heads/automotive-bt-aosp.lnx.3.0.c22.2"/>
-  <project dest-branch="refs/heads/automotive-bt-aosp.lnx.3.0.c22.2" name="clo/la/platform/system/bt" path="system/bt" revision="ca7494b55dfcaef6ca12e4295e4f91c2a2d98ba0" upstream="refs/heads/automotive-bt-aosp.lnx.3.0.c22.2"/>
-  <project dest-branch="refs/heads/bt.lnx.6.0.1.c21.1" name="clo/la/platform/vendor/qcom-opensource/bluetooth" path="vendor/qcom/opensource/commonsys/bluetooth" revision="ac6203037f2e8a350b02fb7baeec8975beba87a3" upstream="refs/heads/bt.lnx.6.0.1.c21.1"/>
-</manifest>

@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<manifest>
-  <remote fetch="https://git.codelinaro.org" name="clo" review="codelinaro.org"/>
-  <default remote="clo" revision="refs/heads/master"/>
-  <project dest-branch="refs/heads/bt.lnx.6.0.1.c21.3" name="clo/la/platform/vendor/qcom-opensource/bluetooth" path="vendor/qcom/opensource/commonsys/bluetooth" revision="ac6203037f2e8a350b02fb7baeec8975beba87a3" upstream="refs/heads/bt.lnx.6.0.1.c21.3"/>
-</manifest>

@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<manifest>
-  <remote fetch="https://git.codelinaro.org/clo/le" name="clo-le"/>
-  <default remote="clo-le" revision="dummy_revision" sync-c="true" sync-tags="false"/>
-  <project remote="clo-le" name="platform/external/mplanehostsw" path="src/platform/external/mplanehostsw" revision="088c41e3bd8cdfcc6a560cb11fbafdee397fd242" upstream="refs/heads/csm_mplane_hostsw.lnx.1.0"/>
-  <project remote="clo-le" name="platform/mhi-host" path="src/platform/mhi-host" revision="2b86a0c88f316fee4e573cdcd14e775400c57674" upstream="refs/heads/le-host.lnx.2.0"/>
-  <project remote="clo-le" name="platform/vendor/qcom-opensource/dp-driver" path="src/platform/vendor/qcom-opensource/dp-driver" revision="2aa507ad25338f419920dd29b135f5863790127f" upstream="refs/heads/dp-driver.lnx.1.0"/>
-</manifest>

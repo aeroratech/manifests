@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<manifest>
-  <remote fetch="https://git.codelinaro.org" name="clo" review="codelinaro.org"/>
-  <default remote="clo" revision="refs/heads/LE.LNXHOSTSW.2.0"/>
-  <project dest-branch="refs/heads/le-host.lnx.2.0" name="clo/le/platform/mhi-host" path="src/platform/mhi-host" revision="69bab859ac9b07a16324e9a78f3c80163b044be9" upstream="refs/heads/le-host.lnx.2.0"/>
-  <project dest-branch="refs/heads/dp-driver.lnx.1.0" name="clo/le/platform/vendor/qcom-opensource/dp-driver" path="src/platform/vendor/qcom-opensource/dp-driver" revision="502a3f857de9d4569bf1024fabf033cc61f1ae61" upstream="refs/heads/dp-driver.lnx.1.0"/>
-</manifest>
