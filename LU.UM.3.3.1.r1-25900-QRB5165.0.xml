@@ -117,6 +117,6 @@
   <project remote="clo-le" name="qti-conf" path="poky/qti-conf" revision="3c39180a58376c2cc51ef606de696c201cdeffc1" upstream="refs/heads/yocto.lnx.4.0.r8-rel">
     <linkfile dest="setup-environment" src="set_bb_env.sh"/>
   </project>
-  <project remote="clo-le" name="wayland/weston" path="src/display/weston" revision="02f9f96e7c20e9fe2ebbfd1f04a1d084c719a7c5" upstream="refs/heads/display.lnx.7.8.r2-rel"/>
+  <project remote="aeroratech" name="wayland/weston" path="src/display/weston" revision="b3f7e1f04a7113873b04df6a7daed8f33b718ede" upstream="develop"/>
   <project remote="clo-qsdk" name="wifi/qca-wifi-oss" path="src/qcawifi/qca-wifi/component_dev" revision="3f2ab9eca329f8c0d89b89c85ccee8a6e8cdf318" upstream="refs/heads/qcawifi-driver.lnx.2.1.r1-rel"/>
 </manifest>
