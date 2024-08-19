@@ -10,6 +10,7 @@
   <default remote="clo-filesystems" revision="dummy_revision" sync-c="true" sync-tags="false"/>
   <project remote="aeroratech" name="msm-5.4" path="src/kernel/msm-5.4" revision="fd309251cd41d588591815be011edd246da16bd5" upstream="refs/heads/develop" groups="cyborg"/>
   <project remote="aeroratech" name="meta-aeroratech-bsp" path="poky/meta-aeroratech-bsp" revision="334bd63e211273b39557a492e41e33af3df899e1" upstream="refs/heads/develop"/>
+  <project remote="aeroratech" name="meta-aeroratech-display" path="poky/meta-aeroratech-display" revision="69b22abfeadd9db8159ce598415605fad1e2ed88" upstream="refs/heads/develop"/>
   <project remote="aeroratech" name="meta-qti-bsp" path="poky/meta-qti-bsp" revision="99719197932d5d62de2a6b1579129575cd6b2839" upstream="refs/heads/develop"/>
   <project remote="aeroratech" name="meta-qti-ubuntu" path="poky/meta-qti-ubuntu" revision="6ef301e772d75a5cc38d6470b40a88c8b96763a8" upstream="refs/heads/develop"/>
   <project remote="aeroratech" name="platform/vendor/opensource/display-drivers" path="src/kernel/msm-5.4/techpack/display" revision="08cae77b0041b3f0d1f301bca52edde4c7f2880d" upstream="refs/heads/develop" groups="cyborg"/>
