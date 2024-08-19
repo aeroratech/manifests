@@ -75,7 +75,7 @@
   <project remote="clo-la" name="platform/system/extras" path="src/system/extras" revision="15e29fed0f96b3cdea8b295483fd829a44aff03b" upstream="refs/heads/le-blast.lnx.1.4.r16-rel"/>
   <project remote="clo-la" name="platform/vendor/opensource/audio-kernel" path="src/vendor/qcom/opensource/audio-kernel" revision="9ee45dc643f4e0be869ed2ab2ad0d1155594b953" upstream="refs/heads/audio-drivers.lnx.5.0.r49-rel"/>
   <project remote="clo-la" name="platform/vendor/opensource/camera-kernel" path="src/kernel/msm-5.4/techpack/camera" revision="63c590a6cb9fc173520a6c6f99961acd309198cb" upstream="refs/heads/camera-kernel-iot.lnx.2.0.r2-rel" groups="cyborg"/>
-  <project remote="clo-la" name="platform/vendor/opensource/display-drivers" path="src/kernel/msm-5.4/techpack/display" revision="9077ddc7f1e4be61908fc1e203d036207d6fdea4" upstream="refs/heads/display-kernel.lnx.5.4.3.r2-rel" groups="cyborg"/>
+  <project remote="aeroratech" name="platform/vendor/opensource/display-drivers" path="src/kernel/msm-5.4/techpack/display" revision="08cae77b0041b3f0d1f301bca52edde4c7f2880d" upstream="develop" groups="cyborg"/>
   <project remote="clo-le" name="platform/vendor/opensource/display/libdrm" path="src/display/libdrm" revision="f4b7a9a57f81747e10a1db6a620e7e55adc80d25" upstream="refs/heads/display.lnx.7.8.r2-rel"/>
   <project remote="clo-la" name="platform/vendor/opensource/video-driver" path="src/kernel/msm-5.4/techpack/video" revision="857323933f6282b360b39053c27a61cde51e8765" upstream="refs/heads/video-kernel.lahaina.lnx.1.0.r14-rel" groups="cyborg"/>
   <project remote="clo-la" name="platform/vendor/qcom-opensource/audio-hal/st-hal" path="src/audio/mm-audio/st-hal" revision="bc7efcdb64042305d8c5d3d229cacced4b1f6a37" upstream="refs/heads/audio-hal.lnx.8.0.r73-rel"/>
