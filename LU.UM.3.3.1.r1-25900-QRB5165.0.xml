@@ -19,7 +19,7 @@
   <project remote="clo-ype" name="external/yoctoproject.org/poky" path="poky" revision="bba323389749ec3e306509f8fb12649f031be152" upstream="refs/heads/yocto-upstream.lnx.4.0.r13-rel"/>
   <project remote="clo-filesystems" name="fs/external/mtd-utils" path="src/filesystems/mtd-utils" revision="06c61768bad9f1d76b5cc500ab2770c5a0ab14af" upstream="refs/heads/core-technologies.lnx.3.0.r79-rel"/>
   <project remote="clo-la" name="kernel/build" path="src/device/qcom/kernelscripts" revision="a3a2ba55c6fb5511e9e5ddd8b6fcdbe5e58560bf" upstream="refs/heads/kernel.lnx.5.4.r47-rel"/>
-  <project remote="aeroratech" name="msm-5.4" path="src/kernel/msm-5.4" revision="b2252e88e7358a8bbdcc7e358f7fa803cfc85aad" upstream="refs/heads/develop" groups="cyborg"/>
+  <project remote="aeroratech" name="msm-5.4" path="src/kernel/msm-5.4" revision="fd309251cd41d588591815be011edd246da16bd5" upstream="refs/heads/develop" groups="cyborg"/>
   <project remote="clo-le" name="mdm/reboot-daemon" path="src/mdm-ss-mgr/reboot-daemon" revision="58cbb254ed7af9cc8c2ca200cf8cf514f83b9230" upstream="refs/heads/mdm-ss-mgr.lnx.1.0.r42-rel"/>
   <project remote="clo-le" name="meta-qti-aosphal-adaptation" path="poky/meta-qti-aosphal-adaptation" revision="84fd22151b6f420255d94411b64d20d4ea942138" upstream="refs/heads/aosphal-le-adaptation.lnx.1.0.r5-rel"/>
   <project remote="clo-le" name="meta-qti-audio" path="poky/meta-qti-audio" revision="257d86a571f225669187fbcbda1962fb8f78e3e1" upstream="refs/heads/audio-hal.lnx.8.0.r73-rel"/>
