@@ -18,7 +18,7 @@
   <project remote="aeroratech" name="qti-conf" path="poky/qti-conf" revision="ee3599d4d658ff4b17349b9ce8029d2b71c0db3b" upstream="refs/heads/develop">
     <linkfile dest="setup-environment" src="set_bb_env.sh"/>
   </project>
-  <project remote="aeroratech" name="uvc-gadget" path="vendor/aeroratech/uvc-gadget" revision="572beaf529cd0ef11c6301ffb8140cd641289508" upstream="refs/heads/develop"/>
+  <project remote="aeroratech" name="uvc-gadget" path="src/vendor/aeroratech/uvc-gadget" revision="572beaf529cd0ef11c6301ffb8140cd641289508" upstream="refs/heads/develop"/>
   <project remote="aeroratech" name="weston" path="src/display/weston" revision="b3f7e1f04a7113873b04df6a7daed8f33b718ede" upstream="refs/heads/develop"/>
   <project remote="clo-le" name="abl/tianocore/edk2" path="src/bootable/bootloader/edk2" revision="863306cd5b02ce2835916a6176dcd695406abaaa" upstream="refs/heads/iot-uefi.lnx.3.0.r1-rel"/>
   <project remote="clo-le" name="aosphal-adaptation" path="src/aosphal-adaptation" revision="728c0b8d46220bb757eb0f74fe45a1841d2211dd" upstream="refs/heads/aosphal-le-adaptation.lnx.1.0.r5-rel"/>
