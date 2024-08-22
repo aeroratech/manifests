@@ -8,7 +8,7 @@
   <remote fetch="https://git.codelinaro.org/clo/ype" name="clo-ype"/>
   <remote fetch="git@github.com:aeroratech" name="aeroratech"/>
   <default remote="clo-filesystems" revision="dummy_revision" sync-c="true" sync-tags="false"/>
-  <project remote="aeroratech" name="docker" path="docker" revision="4864dec843ee790c2b6c15b62bda15cd122a8409" upstream="refs/heads/develop"/>
+  <project remote="aeroratech" name="docker" path="docker" revision="f0886b6242f261aec06df862313246a4c983c313" upstream="refs/heads/develop"/>
   <project remote="aeroratech" name="msm-5.4" path="src/kernel/msm-5.4" revision="fd309251cd41d588591815be011edd246da16bd5" upstream="refs/heads/develop" groups="cyborg"/>
   <project remote="aeroratech" name="meta-aeroratech-bsp" path="poky/meta-aeroratech-bsp" revision="6c11f802eee635253b69ce2c1e4859aaa053fff1" upstream="refs/heads/develop"/>
   <project remote="aeroratech" name="meta-aeroratech-display" path="poky/meta-aeroratech-display" revision="6808ea1b9d86c63f010a54d452a15e623fab3134" upstream="refs/heads/develop"/>
