@@ -9,7 +9,7 @@
   <remote fetch="git@github.com:aeroratech" name="aeroratech"/>
   <default remote="clo-filesystems" revision="dummy_revision" sync-c="true" sync-tags="false"/>
   <project remote="aeroratech" name="c_library_v2" path="src/vendor/mavlink-router/modules/mavlink_c_library_v2" revision="052b8579f8aeb941f34cc9896af22cf1f38939b9" upstream="refs/heads/master"/> 
-  <project remote="aeroratech" name="docker" path="docker" revision="f0886b6242f261aec06df862313246a4c983c313" upstream="refs/heads/develop"/>
+  <project remote="aeroratech" name="docker" path="docker" revision="9bd8e16ab3212563bd56673aa808424763964163" upstream="refs/heads/develop"/>
   <project remote="aeroratech" name="mavlink-router" path="src/vendor/mavlink-router" revision="f3109dacc1dbe8b991b52eb1ea0dc9228f225a45" upstream="refs/heads/develop"/> 
   <project remote="aeroratech" name="msm-5.4" path="src/kernel/msm-5.4" revision="fd309251cd41d588591815be011edd246da16bd5" upstream="refs/heads/develop" groups="cyborg"/>
   <project remote="aeroratech" name="meta-aeroratech-bsp" path="poky/meta-aeroratech-bsp" revision="ebba900a359f773d346195d46e12bc725d35cf0d" upstream="refs/heads/develop"/>
