@@ -19,6 +19,7 @@
   <project remote="aeroratech" name="meta-qti-bsp" path="poky/meta-qti-bsp" revision="99719197932d5d62de2a6b1579129575cd6b2839" upstream="refs/heads/develop"/>
   <project remote="aeroratech" name="meta-qti-ubuntu" path="poky/meta-qti-ubuntu" revision="3e10e04622e34dbf176a236b632b20ab7b86bec0" upstream="refs/heads/develop"/>
   <project remote="aeroratech" name="display-drivers" path="src/kernel/msm-5.4/techpack/display" revision="08cae77b0041b3f0d1f301bca52edde4c7f2880d" upstream="refs/heads/develop" groups="cyborg"/>
+  <project remote="aeroratech" name="build-scripts" path="build-scripts" revision="b55bb2912636d65425f4fb6c2406ecb0183edef8" upstream="refs/heads/develop"/>
   <project remote="aeroratech" name="qti-conf" path="poky/qti-conf" revision="ee3599d4d658ff4b17349b9ce8029d2b71c0db3b" upstream="refs/heads/develop">
     <linkfile dest="setup-environment" src="set_bb_env.sh"/>
   </project>
