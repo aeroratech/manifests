@@ -8,6 +8,7 @@
   <remote fetch="https://git.codelinaro.org/clo/ype" name="clo-ype"/>
   <remote fetch="git@github.com:aeroratech" name="aeroratech"/>
   <default remote="clo-filesystems" revision="dummy_revision" sync-c="true" sync-tags="false"/>
+  <project remote="aeroratech" name="boson-sdk" path="src/vendor/aeroratech/boson-sdk" revision="7f01d1a0a346c0bebf8d31dc6b675c502881e69c" upstream="refs/heads/develop"/> 
   <project remote="aeroratech" name="c_library_v2" path="src/vendor/aeroratech/mavlink-router/modules/mavlink_c_library_v2" revision="052b8579f8aeb941f34cc9896af22cf1f38939b9" upstream="refs/heads/master"/> 
   <project remote="aeroratech" name="docker" path="docker" revision="9bd8e16ab3212563bd56673aa808424763964163" upstream="refs/heads/develop"/>
   <project remote="aeroratech" name="mavlink-router" path="src/vendor/aeroratech/mavlink-router" revision="f3109dacc1dbe8b991b52eb1ea0dc9228f225a45" upstream="refs/heads/develop"/> 
