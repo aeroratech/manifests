@@ -24,7 +24,7 @@
   <project remote="aeroratech" name="qti-conf" path="poky/qti-conf" revision="ee3599d4d658ff4b17349b9ce8029d2b71c0db3b" upstream="refs/heads/develop">
     <linkfile dest="setup-environment" src="set_bb_env.sh"/>
   </project>
-  <project remote="aeroratech" name="uvc-gadget" path="src/vendor/aeroratech/uvc-gadget" revision="188e7295930ef513ef4a620e00767eb753f8ffcb" upstream="refs/heads/develop"/>
+  <project remote="aeroratech" name="uvc-gadget" path="src/vendor/aeroratech/uvc-gadget" revision="e78a9b131da160a1edc7bf0e25c7bb0830e9715d" upstream="refs/heads/develop"/>
   <project remote="aeroratech" name="weston" path="src/display/weston" revision="4422f6bf72a93ec72b857159fa49602ab744b00f" upstream="refs/heads/develop"/>
   <project remote="aeroratech" name="qcom-cam" path="src/vendor/aeroratech/qcom-cam" revision="acbe6ce12b7f40ae4f9eb39c31347b558c2dfc7f" upstream="refs/heads/develop"/>
   <project remote="aeroratech" name="MAVCam" path="src/vendor/aeroratech/mav-cam" revision="1683079b8c392bdba19312312dbcff253b9e0763" upstream="refs/heads/qcom"/>
