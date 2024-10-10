@@ -20,6 +20,7 @@
   <project remote="aeroratech" name="meta-aeroratech-mm" path="poky/meta-aeroratech-mm" revision="716e9ea97c144fdba6553af821f00240ac41c2d8" upstream="refs/heads/develop"/>
   <project remote="aeroratech" name="meta-qti-audio" path="poky/meta-qti-audio" revision="e50f02a7317ee5e4b1b9c9fae30024f46b0045b7" upstream="refs/heads/develop"/>
   <project remote="aeroratech" name="meta-qti-bsp" path="poky/meta-qti-bsp" revision="57d603283183d8b68e37a20a337530271d61eae6" upstream="refs/heads/develop"/>
+  <project remote="aeroratech" name="meta-qti-ml" path="poky/meta-qti-ml" revision="1056f961b33e95ee2696d68cd67bc657c5f52e09" upstream="refs/heads/develop"/>
   <project remote="aeroratech" name="meta-qti-ubuntu" path="poky/meta-qti-ubuntu" revision="07e88233b3f5a56ddd69fa9485edc97a34dfd9d7" upstream="refs/heads/develop"/>
   <project remote="aeroratech" name="platform-system-core" path="src/system/core" revision="cf6047238bb3b3b6b3cff381149b6f1d4a1ddd75" upstream="refs/heads/develop"/>
   <project remote="aeroratech" name="qti-conf" path="poky/qti-conf" revision="ee3599d4d658ff4b17349b9ce8029d2b71c0db3b" upstream="refs/heads/develop">
@@ -50,7 +51,6 @@
   <project remote="clo-le" name="meta-qti-distro" path="poky/meta-qti-distro" revision="93cd827ee5758d7e6985d8b40416470bc4df8834" upstream="refs/heads/yocto.lnx.4.0.r8-rel"/>
   <project remote="clo-qsdk" name="meta-qti-drone" path="poky/meta-qti-drone" revision="6653d50b201055b672d299356acad27201d6c398" upstream="refs/heads/qdrone-service.lnx.1.0.r1-rel"/>
   <project remote="clo-le" name="meta-qti-gst" path="poky/meta-qti-gst" revision="b15a925958b48d9302d18498c7d9348f995caee8" upstream="refs/heads/le-gstreamer.lnx.2.1.r9-rel"/>
-  <project remote="clo-le" name="meta-qti-ml" path="poky/meta-qti-ml" revision="c126c729a3679e893d0d1f56fea9fa4f0cf7c6de" upstream="refs/heads/iot-ml.lnx.3.0.r1-rel"/>
   <project remote="clo-le" name="meta-qti-qcawifi" path="poky/meta-qti-qcawifi" revision="68ded6e64c4d2ecd55c7543a60f01aae165b6439" upstream="refs/heads/qcawifi-service.lnx.2.1.r1-rel"/>
   <project remote="clo-le" name="meta-qti-qmmf" path="poky/meta-qti-qmmf" revision="b8ca9c36310709fc548b7c31f06fe600a6f360b6" upstream="refs/heads/meta-qti-qmmf-recipes.lnx.2.0.r14-rel"/>
   <project remote="clo-le" name="meta-qti-robotics" path="poky/meta-qti-robotics" revision="7fa539e4211554c6e8796de949f4bb56f8fc2835" upstream="refs/heads/iot-robotics.lnx.1.0.r5-rel"/>
