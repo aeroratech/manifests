@@ -19,7 +19,7 @@
   <project remote="aeroratech" name="meta-aeroratech-display" path="poky/meta-aeroratech-display" revision="db735aa9d6aee52765d58ae7c7e03feb63e26d9a" upstream="refs/heads/develop"/>
   <project remote="aeroratech" name="meta-aeroratech-mm" path="poky/meta-aeroratech-mm" revision="716e9ea97c144fdba6553af821f00240ac41c2d8" upstream="refs/heads/develop"/>
   <project remote="aeroratech" name="meta-qti-audio" path="poky/meta-qti-audio" revision="e50f02a7317ee5e4b1b9c9fae30024f46b0045b7" upstream="refs/heads/develop"/>
-  <project remote="aeroratech" name="meta-qti-bsp" path="poky/meta-qti-bsp" revision="336bb06ad34f5b913bd93ac92329cc9cb336a8d5" upstream="refs/heads/develop"/>
+  <project remote="aeroratech" name="meta-qti-bsp" path="poky/meta-qti-bsp" revision="82731e655abd1a837bb14ad7683e9fbc85571085" upstream="refs/heads/develop"/>
   <project remote="aeroratech" name="meta-qti-ml" path="poky/meta-qti-ml" revision="1056f961b33e95ee2696d68cd67bc657c5f52e09" upstream="refs/heads/develop"/>
   <project remote="aeroratech" name="meta-qti-ubuntu" path="poky/meta-qti-ubuntu" revision="07e88233b3f5a56ddd69fa9485edc97a34dfd9d7" upstream="refs/heads/develop"/>
   <project remote="aeroratech" name="platform-system-core" path="src/system/core" revision="6d519d14e90433021e6bf47218376ad47a669d68" upstream="refs/heads/develop"/>
