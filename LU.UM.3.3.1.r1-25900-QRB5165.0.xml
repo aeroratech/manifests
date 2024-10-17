@@ -8,7 +8,7 @@
   <remote fetch="https://git.codelinaro.org/clo/ype" name="clo-ype"/>
   <remote fetch="git@github.com:aeroratech" name="aeroratech"/>
   <default remote="clo-filesystems" revision="dummy_revision" sync-c="true" sync-tags="false"/>
-  <project remote="aeroratech" name="boson-sdk" path="src/vendor/aeroratech/boson-sdk" revision="7f01d1a0a346c0bebf8d31dc6b675c502881e69c" upstream="refs/heads/develop"/> 
+  <project remote="aeroratech" name="boson-sdk" path="src/vendor/aeroratech/boson-sdk" revision="f226a5ef7e4f90bb6fa2fa85ddba718a1ed5a59c" upstream="refs/heads/develop"/> 
   <project remote="aeroratech" name="build-scripts" path="build-scripts" revision="b55bb2912636d65425f4fb6c2406ecb0183edef8" upstream="refs/heads/develop"/>
   <project remote="aeroratech" name="c_library_v2" path="src/vendor/aeroratech/mavlink-router/modules/mavlink_c_library_v2" revision="052b8579f8aeb941f34cc9896af22cf1f38939b9" upstream="refs/heads/master"/> 
   <project remote="aeroratech" name="display-drivers" path="src/kernel/msm-5.4/techpack/display" revision="08cae77b0041b3f0d1f301bca52edde4c7f2880d" upstream="refs/heads/develop" groups="cyborg"/>
