@@ -30,6 +30,7 @@
   <project remote="aeroratech" name="weston" path="src/display/weston" revision="993b67c638b03a5c699b7066b39caedb246edb53" upstream="refs/heads/develop"/>
   <project remote="aeroratech" name="qcom-cam" path="src/vendor/aeroratech/qcom-cam" revision="acbe6ce12b7f40ae4f9eb39c31347b558c2dfc7f" upstream="refs/heads/develop"/>
   <project remote="aeroratech" name="MAVCam" path="src/vendor/aeroratech/mav-cam" revision="1683079b8c392bdba19312312dbcff253b9e0763" upstream="refs/heads/qcom"/>
+  <project remote="aeroratech" name="MAVSDK" path="src/vendor/aeroratech/MAVSDK" revision="323e9876d5ce1f5f19c443a7151d21cd4a00dbc5" upstream="refs/heads/develop"/>
   <project remote="clo-le" name="abl/tianocore/edk2" path="src/bootable/bootloader/edk2" revision="863306cd5b02ce2835916a6176dcd695406abaaa" upstream="refs/heads/iot-uefi.lnx.3.0.r1-rel"/>
   <project remote="clo-le" name="aosphal-adaptation" path="src/aosphal-adaptation" revision="728c0b8d46220bb757eb0f74fe45a1841d2211dd" upstream="refs/heads/aosphal-le-adaptation.lnx.1.0.r5-rel"/>
   <project remote="clo-le" name="display/libgbm" path="src/display/libgbm" revision="27cfae98c6ab4a7004ab19fec0a29083f4ba26e8" upstream="refs/heads/display.lnx.7.8.r2-rel"/>
