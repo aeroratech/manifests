@@ -24,6 +24,7 @@
   <project remote="aeroratech" name="meta-qti-ml" path="poky/meta-qti-ml" revision="1056f961b33e95ee2696d68cd67bc657c5f52e09" upstream="refs/heads/develop"/>
   <project remote="aeroratech" name="meta-qti-ubuntu" path="poky/meta-qti-ubuntu" revision="0ce5de393fb139ad6236ea93a8101b25a2ecac06" upstream="refs/heads/develop"/>
   <project remote="aeroratech" name="platform-system-core" path="src/system/core" revision="16c7e7a06405a0f5a087f0e24f3064fcaac70987" upstream="refs/heads/develop"/>
+  <project remote="aeroratech" name="platform-external-wpa_supplicant_8" path="src/external/wpa_supplicant_8" revision="8b8ab0309bdadc757e589f3b6feddfaf4378126c" upstream="refs/heads/develop"/>
   <project remote="aeroratech" name="qti-conf" path="poky/qti-conf" revision="ee3599d4d658ff4b17349b9ce8029d2b71c0db3b" upstream="refs/heads/develop">
     <linkfile dest="setup-environment" src="set_bb_env.sh"/>
   </project>
@@ -75,7 +76,6 @@
   <project remote="clo-le" name="platform/external/nuttx" path="src/external/nuttx" revision="ce35e9e0328f3a9e3b1e55d9c09b59d6bfaeb441" upstream="refs/heads/iot-robotics.lnx.1.0.r5-rel"/>
   <project remote="clo-le" name="platform/external/nuttx-apps" path="src/external/nuttx-apps" revision="34f4383abed5e1831f619453999ebc262bc17764" upstream="refs/heads/iot-robotics.lnx.1.0.r5-rel"/>
   <project remote="clo-la" name="platform/external/safe-iop" path="src/external/safe-iop" revision="aa0725fb1da35e47676b6da30009322eb5ed59be" upstream="refs/heads/le-blast.lnx.1.4.r16-rel"/>
-  <project remote="clo-la" name="platform/external/wpa_supplicant_8" path="src/external/wpa_supplicant_8" revision="f1bcb082b57477c5a928646227f0237f33f61896" upstream="refs/heads/wlan-ks-service.lnx.4.0.r2-rel"/>
   <project remote="clo-la" name="platform/frameworks/ml" path="src/external/frameworks/ml" revision="a457c5ee39ef87274b363d14a402d1e202dd401f" upstream="refs/heads/iot-ml.lnx.3.0.r1-rel"/>
   <project remote="clo-la" name="platform/hardware/libhardware" path="disregard/hardware/libhardware" revision="97c173715e3857390c2ca74419cf60b3691095b2" upstream="refs/heads/le-blast.lnx.1.4.r16-rel"/>
   <project remote="clo-la" name="platform/hardware/qcom/audio" path="src/hardware/qcom/audio" revision="67e6076a092a0a6b33a572cb0cdebfcb8257d282" upstream="refs/heads/audio-hal.lnx.8.0.r73-rel"/>
