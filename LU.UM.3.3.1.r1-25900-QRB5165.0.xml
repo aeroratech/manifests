@@ -24,7 +24,7 @@
   <project remote="aeroratech" name="meta-qti-ml" path="poky/meta-qti-ml" revision="1056f961b33e95ee2696d68cd67bc657c5f52e09" upstream="refs/heads/develop"/>
   <project remote="aeroratech" name="meta-qti-ubuntu" path="poky/meta-qti-ubuntu" revision="0ce5de393fb139ad6236ea93a8101b25a2ecac06" upstream="refs/heads/develop"/>
   <project remote="aeroratech" name="platform-system-core" path="src/system/core" revision="c3b5e429b4ac48327a28d68021ce7ce1336b32ea" upstream="refs/heads/develop"/>
-  <project remote="aeroratech" name="platform-external-wpa_supplicant_8" path="src/external/wpa_supplicant_8" revision="8b8ab0309bdadc757e589f3b6feddfaf4378126c" upstream="refs/heads/develop"/>
+  <project remote="aeroratech" name="platform-external-wpa_supplicant_8" path="src/external/wpa_supplicant_8" revision="55784fcbdb453b6b11e67a85536f33065a9637bc" upstream="refs/heads/develop"/>
   <project remote="aeroratech" name="qti-conf" path="poky/qti-conf" revision="ee3599d4d658ff4b17349b9ce8029d2b71c0db3b" upstream="refs/heads/develop">
     <linkfile dest="setup-environment" src="set_bb_env.sh"/>
   </project>
