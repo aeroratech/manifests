@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
+fdfdfds
   <remote fetch="https://git.codelinaro.org/clo/filesystems" name="clo-filesystems"/>
   <remote fetch="https://git.codelinaro.org/clo/la" name="clo-la"/>
   <remote fetch="https://git.codelinaro.org/clo/lc" name="clo-lc"/>
