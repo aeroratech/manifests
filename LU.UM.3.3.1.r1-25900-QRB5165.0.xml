@@ -13,7 +13,7 @@
   <project remote="aeroratech" name="c_library_v2" path="src/vendor/aeroratech/mavlink-router/modules/mavlink_c_library_v2" revision="052b8579f8aeb941f34cc9896af22cf1f38939b9" upstream="refs/heads/master"/> 
   <project remote="aeroratech" name="display-drivers" path="src/kernel/msm-5.4/techpack/display" revision="08cae77b0041b3f0d1f301bca52edde4c7f2880d" upstream="refs/heads/develop" groups="cyborg"/>
   <project remote="aeroratech" name="docker" path="docker" revision="31d37b21da211e316afb3c14e2108f7c0a2296ac" upstream="refs/heads/develop"/>
-  <project remote="aeroratech" name="libuvcextension" path="src/vendor/aeroratech/libuvcextension" revision="72596552e149470a161e8af68155effecfd39053" upstream="refs/heads/develop"/>
+  <project remote="aeroratech" name="libuvcextension" path="src/vendor/aeroratech/libuvcextension" revision="f4c17fa0175328e9eabd6f97a084e1ff1e312624" upstream="refs/heads/develop"/>
   <project remote="aeroratech" name="mavlink-router" path="src/vendor/aeroratech/mavlink-router" revision="f3109dacc1dbe8b991b52eb1ea0dc9228f225a45" upstream="refs/heads/develop"/> 
   <project remote="aeroratech" name="msm-5.4" path="src/kernel/msm-5.4" revision="a101e52c75c68d64b4090d0b45c07e318ee497c4" upstream="refs/heads/develop" groups="cyborg"/>
   <project remote="aeroratech" name="meta-aeroratech-bsp" path="poky/meta-aeroratech-bsp" revision="7639fc1ac5070c5d3f6b2cf51345cad971ab9dea" upstream="refs/heads/develop"/>
