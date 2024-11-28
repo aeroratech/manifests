@@ -25,7 +25,7 @@
   <project remote="aeroratech" name="meta-qti-ubuntu" path="poky/meta-qti-ubuntu" revision="0ce5de393fb139ad6236ea93a8101b25a2ecac06" upstream="refs/heads/develop"/>
   <project remote="aeroratech" name="platform-system-core" path="src/system/core" revision="c3b5e429b4ac48327a28d68021ce7ce1336b32ea" upstream="refs/heads/develop"/>
   <project remote="aeroratech" name="platform-external-wpa_supplicant_8" path="src/external/wpa_supplicant_8" revision="55784fcbdb453b6b11e67a85536f33065a9637bc" upstream="refs/heads/develop"/>
-  <project remote="aeroratech" name="qti-conf" path="poky/qti-conf" revision="128935867e5201ba9e3aafc87d2f78be0aec5871" upstream="refs/heads/develop">
+  <project remote="aeroratech" name="qti-conf" path="poky/qti-conf" revision="44160e482c3d5716ab433c0dfae079fde53bbf48" upstream="refs/heads/develop">
     <linkfile dest="setup-environment" src="set_bb_env.sh"/>
   </project>
   <project remote="aeroratech" name="uvc-gadget" path="src/vendor/aeroratech/uvc-gadget" revision="1198acb08a08dd4af3bef4abc740b06e0660116a" upstream="refs/heads/develop"/>
