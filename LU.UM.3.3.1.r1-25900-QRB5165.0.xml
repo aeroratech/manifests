@@ -29,7 +29,7 @@
     <linkfile dest="setup-environment" src="set_bb_env.sh"/>
   </project>
   <project remote="aeroratech" name="uvc-gadget" path="src/vendor/aeroratech/uvc-gadget" revision="1198acb08a08dd4af3bef4abc740b06e0660116a" upstream="refs/heads/develop"/>
-  <project remote="aeroratech" name="weston" path="src/display/weston" revision="993b67c638b03a5c699b7066b39caedb246edb53" upstream="refs/heads/develop"/>
+  <project remote="aeroratech" name="weston" path="src/display/weston" revision="0a6333670181e2fc9048785b7059dc4ec9894433" upstream="refs/heads/develop"/>
   <project remote="aeroratech" name="qcom-cam" path="src/vendor/aeroratech/qcom-cam" revision="76b420cc07accb1f7674cb99f449f4f5ed74a3a0" upstream="refs/heads/develop"/>
   <project remote="aeroratech" name="MAVCam" path="src/vendor/aeroratech/mav-cam" revision="799ce1ca9c5820eafd7ed8406eaf75a11d3a0079" upstream="refs/heads/qcom"/>
   <project remote="aeroratech" name="MAVSDK" path="src/vendor/aeroratech/MAVSDK" revision="323e9876d5ce1f5f19c443a7151d21cd4a00dbc5" upstream="refs/heads/develop"/>
