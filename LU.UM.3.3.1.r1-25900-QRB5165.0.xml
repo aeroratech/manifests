@@ -13,7 +13,7 @@
   <project remote="aeroratech" name="c_library_v2" path="src/vendor/aeroratech/mavlink-router/modules/mavlink_c_library_v2" revision="052b8579f8aeb941f34cc9896af22cf1f38939b9" upstream="refs/heads/master"/> 
   <project remote="aeroratech" name="display-drivers" path="src/kernel/msm-5.4/techpack/display" revision="08cae77b0041b3f0d1f301bca52edde4c7f2880d" upstream="refs/heads/develop" groups="cyborg"/>
   <project remote="aeroratech" name="docker" path="docker" revision="829adebf0565722c47d70a69314261304d22e5bd" upstream="refs/heads/develop"/>
-  <project remote="aeroratech" name="libuvcextension" path="src/vendor/aeroratech/libuvcextension" revision="b01d184a78d422f3e84e84c34f876642c138385c" upstream="refs/heads/develop"/>
+  <project remote="aeroratech" name="libuvcextension" path="src/vendor/aeroratech/libuvcextension" revision="d675c2b97b1946d3ece541373fe55d55b19f4593" upstream="refs/heads/develop"/>
   <project remote="aeroratech" name="mavlink-router" path="src/vendor/aeroratech/mavlink-router" revision="f3109dacc1dbe8b991b52eb1ea0dc9228f225a45" upstream="refs/heads/develop"/> 
   <project remote="aeroratech" name="msm-5.4" path="src/kernel/msm-5.4" revision="a101e52c75c68d64b4090d0b45c07e318ee497c4" upstream="refs/heads/develop" groups="cyborg"/>
   <project remote="aeroratech" name="meta-aeroratech-bsp" path="poky/meta-aeroratech-bsp" revision="7639fc1ac5070c5d3f6b2cf51345cad971ab9dea" upstream="refs/heads/develop"/>
@@ -30,8 +30,8 @@
   </project>
   <project remote="aeroratech" name="uvc-gadget" path="src/vendor/aeroratech/uvc-gadget" revision="1198acb08a08dd4af3bef4abc740b06e0660116a" upstream="refs/heads/develop"/>
   <project remote="aeroratech" name="weston" path="src/display/weston" revision="0a6333670181e2fc9048785b7059dc4ec9894433" upstream="refs/heads/develop"/>
-  <project remote="aeroratech" name="qcom-cam" path="src/vendor/aeroratech/qcom-cam" revision="41266b0debfc10b7aee45a43f8e77d4e5c014801" upstream="refs/heads/develop"/>
-  <project remote="aeroratech" name="MAVCam" path="src/vendor/aeroratech/mav-cam" revision="83e021450d7aa966cb11137f3d70405cf5c0dd96" upstream="refs/heads/qcom"/>
+  <project remote="aeroratech" name="qcom-cam" path="src/vendor/aeroratech/qcom-cam" revision="d618e8bb071f0a9f26c4bc663e74e7f5d935d2f6" upstream="refs/heads/develop"/>
+  <project remote="aeroratech" name="MAVCam" path="src/vendor/aeroratech/mav-cam" revision="f8acc31f2affea0b12c1f2e4730f089247116e4a" upstream="refs/heads/qcom"/>
   <project remote="aeroratech" name="MAVSDK" path="src/vendor/aeroratech/MAVSDK" revision="6c5428f312ea0a6050c60bfb20c0540fb18435a0" upstream="refs/heads/develop"/>
   <project remote="clo-le" name="abl/tianocore/edk2" path="src/bootable/bootloader/edk2" revision="863306cd5b02ce2835916a6176dcd695406abaaa" upstream="refs/heads/iot-uefi.lnx.3.0.r1-rel"/>
   <project remote="clo-le" name="aosphal-adaptation" path="src/aosphal-adaptation" revision="728c0b8d46220bb757eb0f74fe45a1841d2211dd" upstream="refs/heads/aosphal-le-adaptation.lnx.1.0.r5-rel"/>
